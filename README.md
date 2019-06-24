@@ -22,7 +22,7 @@ OmniOne은 서로 신뢰할 수 있는 세상을 만드는 것을 목적으로 �
 
 바하마에 도착한 Eliot은 바하마 관광 안내에 따라 OmniOne 앱을 설치하고 해당 앱을 통해 방문자용 디지털 신분증을 발급 받는다. 그리고 해당 발급에 대한 보상으로 10000 OMN을 지급 받게 된다.
 
-![KakaoTalk_Photo_2019-06-21-14-20-07](/Users/damsama/Desktop/KakaoTalk_Photo_2019-06-21-14-20-07.png)
+![vc](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/vc.png)
 
 
 
@@ -44,15 +44,17 @@ OmniOne은 서로 신뢰할 수 있는 세상을 만드는 것을 목적으로 �
 
 매장에서는 매장이 관리하는 페이지를 통해 사용자가 결제한  토큰이 추가 되었음을 확인한다.
 
-![Bahamas_QR_1.](/Users/damsama/Desktop/Bahamas_QR_1..png)
+![Bahamas_QR_1](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_1.png)
 
 #### Demo Infomation
 
-App download URL:
+App download URL: 
 
-Service Page URL:
+Online Service Page URL: http://iw.whitehat.co.kr/omnionedemo
 
-Service Page URL:
+Offline Service Page URL: 
+
+Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login (admin/12345)
 
 동영상 :
 
