@@ -9,12 +9,12 @@
 <img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app7.png" width="300"/>
 <img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app8.png" width="300"/>
 
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp1.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp2.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp3.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp4.png" width="300"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp1.png" width="500"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp2.png" width="500"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp3.png" width="500"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/sp4.png" width="500"/>
 
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin1.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin2.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin3.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin4.png" width="300"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin1.png" width="1000"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin2.png" width="1000"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin3.png" width="1000"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/admin4.png" width="1000"/>
