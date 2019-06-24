@@ -1,6 +1,6 @@
 # Bahama_Demo Screenshots
 
-![app1](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png =150x)
+![app1](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png =150)
 ![app2](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app2.png)
 ![app3](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app3.png)
 ![app4](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app4.png)
