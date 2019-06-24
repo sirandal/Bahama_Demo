@@ -1,8 +1,8 @@
 # Bahama_Demo Screenshots
 
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png" width="300" border="1"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app2.png" width="300"/>
-<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app3.png" width="300"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png" width="300" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app2.png" width="300" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app3.png" width="300" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app4.png" width="300"/>
 <img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app5.png" width="300"/>
 <img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app6.png" width="300"/>
