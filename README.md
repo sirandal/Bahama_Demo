@@ -1,5 +1,6 @@
 # Bahama_Demo Screenshots
 
+<img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png" width="100" height="200" />
 ![app1](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png)
 ![app2](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app2.png)
 ![app3](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app3.png)
