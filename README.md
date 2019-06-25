@@ -1,3 +1,16 @@
+# Demo Infomation
+
+App download URL: https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
+
+Online Service Page URL: http://iw.whitehat.co.kr/omnionedemo
+
+Offline Service Page URL: https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_2.png
+
+Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login (admin/12345)
+
+동영상 :
+
+
 # Bahama_Demo Screenshots
 
 <img src="https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/screenshots/app1.png" width="300" border="2"/>
