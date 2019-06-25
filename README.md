@@ -6,7 +6,7 @@ Online Service Page URL: http://iw.whitehat.co.kr/omnionedemo
 
 Offline Service Page URL: https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_2.png
 
-Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login (admin/12345)
+Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 
 동영상 :
 
