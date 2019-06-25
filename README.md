@@ -10,6 +10,33 @@ Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 
 동영상 :
 
+# Just Do Tt Now
+1. download app from the URL : https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
+only android os supported
+
+2. run the app and initialize app (setting bio verification, makeing did internally)
+
+3. You can use the below test account for issuing sample visitor card(Verifiable Claim) in your app.
+( You can get your own VC after add your own info in the admin page http://iw.whitehat.co.kr/omnionedemo/console/login)
+
+First Name : Alice
+Last Name : Lee
+Nationality : korea
+E-mail : alice@sample.com
+Sex : male
+
+4. go to online shopping mall page on the PC browser. (or you can use offline page)
+http://iw.whitehat.co.kr/omnionedemo (online)
+https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_2.png (offline)
+
+
+5. In the PC browser select Login then you can see the QR code
+
+6. You can qr scan with your app
+
+7. ...
+
+
 
 # Bahama_Demo Screenshots
 
