@@ -10,7 +10,7 @@ Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 
 동영상 :
 
-# Just Do Tt Now
+# Just Do It Now
 1. download app from the URL : https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
 only android os supported
 
