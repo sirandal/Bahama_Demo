@@ -8,7 +8,7 @@ c. Offline Service Page URL: https://github.com/OmniOne-Blockchain/Bahama_Demo/b
 
 d. Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 
-e. Vedio : 
+e. Video : 
 
 # Try It Now
 1. download app from the URL : (a) https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
