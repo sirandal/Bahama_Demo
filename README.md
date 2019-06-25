@@ -14,7 +14,7 @@ e. Vedio :
 1. download app from the URL : (a) https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
 only android os supported
 
-2. run the app and initialize app (setting bio verification, makeing did internally)
+2. run the app and initialize app (setting bio verification, making did internally)
 
 3. You can use the below test account for issuing sample visitor card(Verifiable Claim) in your app.
 ( You can get your own VC after add your own info in the admin page (d) http://iw.whitehat.co.kr/omnionedemo/console/login)
