@@ -1,4 +1,4 @@
-# Demo Infomation
+# Demo Information
 
 a. App download URL: https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
 
