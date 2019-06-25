@@ -46,15 +46,3 @@ OmniOne은 서로 신뢰할 수 있는 세상을 만드는 것을 목적으로 �
 
 ![Bahamas_QR_1](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_1.png)
 
-#### Demo Infomation
-
-App download URL: https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
-
-Online Service Page URL: http://iw.whitehat.co.kr/omnionedemo
-
-Offline Service Page URL: https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_2.png
-
-Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login (admin/12345)
-
-동영상 :
-
