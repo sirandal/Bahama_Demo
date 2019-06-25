@@ -20,10 +20,10 @@ only android os supported
 ( You can get your own VC after add your own info in the admin page (d) http://iw.whitehat.co.kr/omnionedemo/console/login)
 
 - First Name: Alice
-- Last Name: Lee
+- Last Name: 123
 - Nationality: korea
-- E-mail: alice@sample.com
-- Sex: male
+- E-mail: alice@alice.com
+- Sex: female
 
 4. go to online shopping mall page on the PC browser. (or you can use offline page)
 (b) http://iw.whitehat.co.kr/omnionedemo (online)
