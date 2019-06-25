@@ -10,7 +10,7 @@ d. Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 
 e. Vedio : 
 
-# Just Do It Now
+# Try It Now
 1. download app from the URL : (a) https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
 only android os supported
 
