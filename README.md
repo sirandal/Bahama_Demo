@@ -19,11 +19,7 @@ only android os supported
 3. You can use the below test account for issuing sample visitor card(Verifiable Claim) in your app.
 ( You can get your own VC after add your own info in the admin page (d) http://iw.whitehat.co.kr/omnionedemo/console/login)
 
-First Name : Alice
-Last Name : Lee
-Nationality : korea
-E-mail : alice@sample.com
-Sex : male
+- First Name: Alice, Last Name: Lee, Nationality: korea, E-mail: alice@sample.com, Sex: male
 
 4. go to online shopping mall page on the PC browser. (or you can use offline page)
 (b) http://iw.whitehat.co.kr/omnionedemo (online)
